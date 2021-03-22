@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1550169705 source:c:\users\sabka\desktop\templates example\pfarray.cpp
+	"pfarray.h"
+	<iostream>
+
+1550169893 c:\users\sabka\desktop\templates example\pfarray.h
+	<cstdlib>
+
+1550169705 source:c:\users\sabka\desktop\templates example\main.cpp
+	<iostream>
+	<string>
+	"pfarray.h"
+	"pfarray.cpp"
+
+1550169893 c:\users\sabka\desktop\templates example\pfarray.cpp
+	"pfarray.h"
+	<iostream>
+

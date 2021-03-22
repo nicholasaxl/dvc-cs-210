@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1505333726 source:c:\users\caterina\desktop\laspo\queueasalinkedlist\llistqueue.cpp
+	"LListQueue.h"
+
+1505333668 c:\users\caterina\desktop\laspo\queueasalinkedlist\llistqueue.h
+
+1519946740 source:c:\users\cpentcheva481\desktop\queueasalinkedlist\llistqueue.cpp
+	"LListQueue.h"
+
+1519946740 c:\users\cpentcheva481\desktop\queueasalinkedlist\llistqueue.h
+
+1519946740 source:c:\users\cpentcheva481\desktop\queueasalinkedlist\main.cpp
+	"LListQueue.h"
+	<iostream>
+	<cstring>
+
